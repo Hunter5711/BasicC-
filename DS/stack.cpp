@@ -36,6 +36,9 @@ int main()
  s.push(14);
  s.push(17);
  s.push(11);
+    //pushing some more elements//
+ s.push(34);
+    s.push(94);
 cout<<"Elements in Stack are "<<endl;
 printStack(s);
 cout<<"Size of stack "<<s.size()<<endl;
